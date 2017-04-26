@@ -6,3 +6,5 @@ Contains basic scripts for routine tasks.
 2. install-sites-cron -> install a cron to be invoked on reboot that opens browser with sites of user interest.
 
 3. tcp-wrappers -> shows all the applications that provide a support for TCP wrappers.
+
+4. update-distro -> upgrade your Debian distribution.
