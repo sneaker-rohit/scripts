@@ -8,3 +8,5 @@ Contains basic scripts for routine tasks.
 3. tcp-wrappers -> shows all the applications that provide a support for TCP wrappers.
 
 4. update-distro -> upgrade your Debian distribution.
+
+5. system-hardening -> protection against common attacks and some performance tuning for servers. 

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Author: Rohit P. Tahiliani
-# Script has been tested on Ubuntu 14.04 
+# Script has been tested on Debian 
 
 # check if the user executing the script is root or not  
 if ! [ $(id -u) = 0 ]; then
