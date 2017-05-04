@@ -44,7 +44,7 @@ else
 	# to RFC 1122 the destination host must respond along the same path. If an attacker was able to send a source routed packet into your 
 	# network, then he would be able to intercept the replies and fool your host into thinking it is communicating with a trusted host.
 	for f in /proc/sys/net/ipv4/conf/*/accept_source_route; do
-        echo 0 > $f
+     echo 0 > $f
     done
 
     # 6. When a packet is sent to an IP broadcast address (i.e. 192.168.1.255) from a machine on the local network, that packet is delivered 
