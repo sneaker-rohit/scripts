@@ -10,3 +10,5 @@ Contains basic scripts for routine tasks.
 4. update-distro -> upgrade your Debian distribution.
 
 5. system-hardening -> protection against common attacks and some performance tuning for servers. 
+
+6. ssh-scripts -> automate ssh login to remote systems and execute commands
